@@ -1,4 +1,4 @@
-name: Fetch recent blog posts
+name: Build README
 on:
   schedule:
     - cron: "* */6 * * *"
