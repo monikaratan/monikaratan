@@ -1,9 +1,9 @@
 {
-  "name": "kanishkkunal",
+  "name": "monikaratan",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:kanishkkunal/kanishkkunal.git",
-  "author": "Kanishk Kunal <kanishkkunal@users.noreply.github.com>",
+  "repository": "git@github.com:monikaratan/monikaratan.git",
+  "author": "Monika Ratan <monikaratan@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
   "scripts": {

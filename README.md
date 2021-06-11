@@ -7,7 +7,7 @@ You can find my work at →
 - 🎨 https://monikaratan.com/art/
 - ✍ https://monikaratan.com/fiction/
 
-I worked as Associalte Consultant at IBM and Capgemini from 2008-2013. I left my full-time job in 2013, to pursue my own dreams of making digital products.
+I worked as Associate Consultant at IBM and Capgemini from 2008-2013. I left my full-time job in 2013, to pursue my own dreams of making digital products.
 
 I have a B.Tech. in Electronics and Communication Engineering from BIT, Sindri.
 
@@ -21,7 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
-
+- [20 Free Solid Pastel Color Backgrounds](https://superdevresources.com/free-solid-pastel-color-backgrounds/)
+- [20 Best Business Letterhead Templates (Word, AI) – Free & Premium](https://superdevresources.com/business-letterhead-templates/)
+- [25 Neumorphism UI Design Inspirations and Examples](https://superdevresources.com/neumorphism-ui-design-inspiration/)
+- [15 Glassmorphism UI Design Inspirations and Examples](https://superdevresources.com/glassmorphism-ui-inspiration/)
+- [15 Free High Quality Gold Textures for your Design](https://superdevresources.com/free-gold-textures/)
 <!-- FEED-END -->
 
 ---
