@@ -29,4 +29,4 @@ Find my latest articles on https://superdevresources.com
 <!-- FEED-END -->
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/monikaratan?label=Follow&style=social)](https://twitter.com/monikaratan) ![Profile Views](https://gpvc.arturio.dev/monikaratan)<a href="https://github.com/monikaratan/monikaratan/actions"><img src="https://github.com/monikaratan/monikaratan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/monikaratan?label=Follow&style=social)](https://twitter.com/monikaratan) <a href="https://github.com/monikaratan/monikaratan/actions"><img src="https://github.com/monikaratan/monikaratan/workflows/Build%20README/badge.svg?branch=main" align="right" alt="Build README"></a>
