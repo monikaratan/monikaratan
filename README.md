@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [20 Best Business PowerPoint Templates – Free & Premium](https://superdevresources.com/business-powerpoint-templates/)
 - [20 Free Solid Pastel Color Backgrounds](https://superdevresources.com/free-solid-pastel-color-backgrounds/)
 - [25 Best Business Letterhead Templates (Word, AI) – Free & Premium](https://superdevresources.com/business-letterhead-templates/)
 - [25 Neumorphism UI Design Inspirations and Examples](https://superdevresources.com/neumorphism-ui-design-inspiration/)
 - [15 Glassmorphism UI Design Inspirations and Examples](https://superdevresources.com/glassmorphism-ui-inspiration/)
-- [15 Free High Quality Gold Textures for your Design](https://superdevresources.com/free-gold-textures/)
 <!-- FEED-END -->
 
 ---
