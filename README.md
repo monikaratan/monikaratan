@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [16 Free Grunge Texture Sets for Your Designs](https://superdevresources.com/free-grunge-textures/)
 - [100,000+ Best Free Icons for Web and App Design](https://superdevresources.com/free-icons/)
 - [25 Free Business Card Mockups PSD Download](https://superdevresources.com/business-card-mockups-psd/)
 - [20 Free Branding Mockup PSD Templates with Stationery Items](https://superdevresources.com/identity-branding-mockups-psd/)
 - [21 Dark UI Design Inspirations and Examples](https://superdevresources.com/dark-ui-inspiration/)
-- [100+ Free Geometric Backgrounds and Polygon Graphics](https://superdevresources.com/free-geometric-backgrounds-and-polygon-graphics/)
 <!-- FEED-END -->
 
 ---
