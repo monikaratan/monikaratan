@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Monika Ratan
 
-Professional Blogger and Co-Editor at https://superdevresources.com. I like graphic design, digital art and writing.
+Professional Blogger and Editor at https://superdevresources.com. I like graphic design, digital art and writing.
 
 You can find my work at → 
 - 🖼 https://templateflip.com/graphics/
