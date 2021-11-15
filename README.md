@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [14 Free 3D Illustration Sets for Web and App Design](https://superdevresources.com/3d-illustrations-free/)
 - [25 Best Free Serif Fonts for Designers 2022](https://superdevresources.com/best-free-serif-fonts/)
 - [30 Best Free Logo Mockups – PSD Download](https://superdevresources.com/logo-mockups-free/)
 - [16 Free Grunge Texture Sets for Your Designs](https://superdevresources.com/free-grunge-textures/)
 - [100,000+ Best Free Icons for Web and App Design](https://superdevresources.com/free-icons/)
-- [25 Free Business Card Mockups PSD Download](https://superdevresources.com/business-card-mockups-psd/)
 <!-- FEED-END -->
 
 ---
