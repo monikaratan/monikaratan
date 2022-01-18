@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [20 Free iPad Mockups – PSD, AI, Figma & Sketch](https://superdevresources.com/ipad-mockups-psd-figma/)
 - [10 Best Premium Portfolio WordPress themes for Professionals](https://superdevresources.com/portfolio-wordpress-themes/)
 - [25+ Free Cool Fonts for Unique & Creative Designs](https://superdevresources.com/cool-fonts/)
 - [20 Best Minimal PowerPoint Templates – Free & Premium](https://superdevresources.com/minimal-powerpoint-templates/)
 - [16 Free 3D Illustration Sets for Web and App Design](https://superdevresources.com/3d-illustrations-free/)
-- [25 Best Free Serif Fonts for Designers 2022](https://superdevresources.com/best-free-serif-fonts/)
 <!-- FEED-END -->
 
 ---
