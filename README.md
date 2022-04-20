@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [15+ Best Free Resume Templates in Microsoft Word](https://superdevresources.com/resume-templates-word/)
 - [14 Places to Find Best Free Fonts for Your Apps and Websites](https://superdevresources.com/best-free-fonts-for-apps-and-websites/)
 - [15+ Best Free Logo Fonts for Designers](https://superdevresources.com/logo-fonts/)
 - [15 Free Holi Backgrounds and Greeting Card Templates](https://superdevresources.com/free-holi-backgrounds-greeting-templates/)
 - [25+ Best Free Procreate Brushes for Drawing, Painting and Lettering](https://superdevresources.com/procreate-brushes-free/)
-- [20 Free iPad Mockups – PSD, AI, Figma & Sketch](https://superdevresources.com/ipad-mockups-psd-figma/)
 <!-- FEED-END -->
 
 ---
