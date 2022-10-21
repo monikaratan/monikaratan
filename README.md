@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [Free Boho Rainbow Backgrounds for Your Designs](https://superdevresources.com/free-boho-rainbow-backgrounds/)
 - [20 Procreate Tutorials for iPad Drawing, Painting, Lettering & More](https://superdevresources.com/procreate-tutorials-ipad/)
 - [12+ Best Free Instagram Story Highlight Icons](https://superdevresources.com/instagram-highlight-icons-free/)
 - [Free Dotted Brush for Procreate Lettering & Illustration](https://superdevresources.com/free-dotted-brush-procreate/)
 - [20 Best Professional PowerPoint Templates – Free & Premium](https://superdevresources.com/professional-powerpoint-templates/)
-- [15 Best Free Lightroom Wedding Presets](https://superdevresources.com/lightroom-wedding-presets/)
 <!-- FEED-END -->
 
 ---
