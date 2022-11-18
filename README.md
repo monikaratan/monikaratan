@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [1000+ Free Photoshop Gradients for all your Design Needs](https://superdevresources.com/free-photoshop-gradients/)
 - [35 Best Instagram Templates for Posts & Stories 2023](https://superdevresources.com/best-instagram-templates-download/)
 - [5 Free Pastel Gradient Backgrounds with Grainy Texture](https://superdevresources.com/free-pastel-gradient-backgrounds/)
 - [Free Boho Rainbow Backgrounds for Your Designs](https://superdevresources.com/free-boho-rainbow-backgrounds/)
 - [20 Procreate Tutorials for iPad Drawing, Painting, Lettering & More](https://superdevresources.com/procreate-tutorials-ipad/)
-- [12+ Best Free Instagram Story Highlight Icons](https://superdevresources.com/instagram-highlight-icons-free/)
 <!-- FEED-END -->
 
 ---
