@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [10 Free Valentine’s Day Vectors](https://superdevresources.com/free-valentine-day-vectors/)
+- [25 Valentine Day Fonts for Designing Cards and Posters](https://superdevresources.com/valentine-day-themed-fonts/)
 - [25+ Free Christmas Greetings Templates & Backgrounds](https://superdevresources.com/free-christmas-greetings-templates/)
 - [30+ Free New Year Greeting Templates and Backgrounds](https://superdevresources.com/new-year-greetings-templates/)
 - [20 Best Free Billboard Mockups – PSD Download](https://superdevresources.com/free-billboard-mockups-psd/)
-- [1000+ Free Photoshop Gradients for all your Design Needs](https://superdevresources.com/free-photoshop-gradients/)
-- [35 Best Instagram Templates for Posts & Stories 2023](https://superdevresources.com/best-instagram-templates-download/)
 <!-- FEED-END -->
 
 ---
