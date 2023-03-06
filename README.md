@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [50+ Free Photoshop Texture Packs to Make Your Design Complete](https://superdevresources.com/free-photoshop-textures/)
 - [40+ Best Retro Fonts to Perfect your Vintage Style Inspired Design](https://superdevresources.com/vintage-retro-fonts/)
 - [15+ Free Holi Backgrounds and Greeting Card Templates](https://superdevresources.com/free-holi-backgrounds-greeting-templates/)
 - [25 Best Free Serif Fonts for Designers 2023](https://superdevresources.com/best-free-serif-fonts/)
 - [10 Free Valentine’s Day Vectors](https://superdevresources.com/free-valentine-day-vectors/)
-- [25 Valentine Day Fonts for Designing Cards and Posters](https://superdevresources.com/valentine-day-themed-fonts/)
 <!-- FEED-END -->
 
 ---
