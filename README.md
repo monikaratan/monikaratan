@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [14 Free Stock Footage Sites to Download Videos Without Watermark](https://superdevresources.com/free-stock-videos-footages/)
 - [25 Best Free Magazine Mockups PSD to Showcase Your Designs in Style](https://superdevresources.com/magazine-mockups-free/)
 - [25+ Best Business Letterhead Templates (Word, AI) – Free & Premium](https://superdevresources.com/business-letterhead-templates/)
 - [30+ Best Free Procreate Brushes for Drawing, Painting and Lettering](https://superdevresources.com/procreate-brushes-free/)
 - [50+ Free Photoshop Texture Packs to Make Your Design Complete](https://superdevresources.com/free-photoshop-textures/)
-- [40+ Best Retro Fonts to Perfect your Vintage Style Inspired Design](https://superdevresources.com/vintage-retro-fonts/)
 <!-- FEED-END -->
 
 ---
