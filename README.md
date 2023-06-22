@@ -25,7 +25,7 @@ Find my latest articles on https://superdevresources.com
 - [14 Free Stock Footage Sites to Download Videos Without Watermark](https://superdevresources.com/free-stock-videos-footages/)
 - [25 Best Free Magazine Mockups PSD to Showcase Your Designs in Style](https://superdevresources.com/magazine-mockups-free/)
 - [25+ Best Business Letterhead Templates (Word, AI) – Free & Premium](https://superdevresources.com/business-letterhead-templates/)
-- [30+ Best Free Procreate Brushes for Drawing, Painting and Lettering](https://superdevresources.com/procreate-brushes-free/)
+- [700+ Best Free Procreate Brushes for Drawing, Painting and Lettering on iPad](https://superdevresources.com/procreate-brushes-free/)
 <!-- FEED-END -->
 
 ---
