@@ -7,7 +7,7 @@ You can find my work at →
 - 🎨 https://monikaratan.com/art/
 - ✍ https://monikaratan.com/fiction/
 
-I worked as Associate Consultant at IBM and Capgemini from 2008-2013. I left my full-time job in 2013, to pursue my own dreams of making digital products.
+I worked as SAP PI consultant at IBM and Capgemini from 2008-2013. I left my full-time job in 2013, to pursue my own dreams of making digital products.
 
 I have a B.Tech. in Electronics and Communication Engineering from BIT, Sindri.
 
