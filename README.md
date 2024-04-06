@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [16+ Free High Quality Gold Textures for your Design](https://superdevresources.com/free-gold-textures/)
 - [5 Free Spring Floral Backgrounds in Pastel Colors](https://superdevresources.com/free-spring-floral-backgrounds-pastel/)
 - [22+ Free Halloween Backgrounds and Poster Templates](https://superdevresources.com/free-halloween-backgrounds-poster-templates/)
 - [20+ Halloween Icon Sets – Free and Premium](https://superdevresources.com/halloween-icon-sets-free-premium/)
 - [20+ Best Sites to Find Free Icons for Web and App Design](https://superdevresources.com/free-icons/)
-- [14 Free Stock Footage Sites to Download Videos Without Watermark](https://superdevresources.com/free-stock-videos-footages/)
 <!-- FEED-END -->
 
 ---
