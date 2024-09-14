@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [25 Free Business Letterhead Templates (Word, AI)](https://superdevresources.com/business-letterhead-templates/)
 - [20 Places to Find Free Illustrations for Websites and Apps](https://superdevresources.com/free-illustrations-for-websites/)
 - [500+ Free Paper Textures and Backgrounds](https://superdevresources.com/free-paper-texture-packs/)
 - [16+ Free High Quality Gold Textures for your Design](https://superdevresources.com/free-gold-textures/)
 - [5 Free Spring Floral Backgrounds in Pastel Colors](https://superdevresources.com/free-spring-floral-backgrounds-pastel/)
-- [22+ Free Halloween Backgrounds and Poster Templates](https://superdevresources.com/free-halloween-backgrounds-poster-templates/)
 <!-- FEED-END -->
 
 ---
