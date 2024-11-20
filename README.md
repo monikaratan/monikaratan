@@ -21,11 +21,11 @@ You can also find me on [Twitter](https://twitter.com/monikaratan) and [LinkedIn
 Find my latest articles on https://superdevresources.com
 
 <!-- FEED-START -->
+- [25+ Free Christmas Greetings Templates & Backgrounds](https://superdevresources.com/free-christmas-greetings-templates/)
 - [25 Christmas Fonts to Download for Your Holiday Designs](https://superdevresources.com/christmas-fonts/)
 - [40+ Thanksgiving Vector Graphics & Greeting Templates: Free and Premium](https://superdevresources.com/thanksgiving-vector-graphics/)
 - [20+ Best Minimal PowerPoint Templates – Free & Premium Downloads for Clean Presentations](https://superdevresources.com/minimal-powerpoint-templates/)
 - [25 Free Business Letterhead Templates (Word, AI)](https://superdevresources.com/business-letterhead-templates/)
-- [20 Places to Find Free Illustrations for Websites and Apps](https://superdevresources.com/free-illustrations-for-websites/)
 <!-- FEED-END -->
 
 ---
